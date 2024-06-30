@@ -23,6 +23,7 @@ Node.js is required to run this project.
 ## Usage
 
 Use Node.js to run employee tracker.
+Video Walkthrough: https://www.youtube.com/watch?v=DfXvWLw_f8s
 
 ## Credits
 
