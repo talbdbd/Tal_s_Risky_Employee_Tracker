@@ -1,3 +1,5 @@
+
+require('dotenv').config();
 const inquirer = require('inquirer');
 const createConnection = require('./js/connection');
 
